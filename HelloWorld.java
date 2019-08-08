@@ -2,7 +2,8 @@ public class HelloWorld
 {
   public static void main()
   {
-    String name = "Saurabh";
-    System.out.println("Hello " + name);
+    String first_name = "Saurabh";
+    String last_name = "Kumar";
+    System.out.println("Hello " + first_name + " " + last_name);
   }
 }
